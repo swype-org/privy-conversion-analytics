@@ -2,7 +2,7 @@
 
 One-time report that measures **conversion from non-wallet sign-in to first funded** for any [Privy](https://privy.io) app. "Non-wallet" = users who signed in with email, phone, or social (Google, Twitter, Telegram, Farcaster, etc.). "Funded" = their embedded wallet has received at least one incoming transfer on any supported chain.
 
-Supported chains: Ethereum, Arbitrum, Base, Optimism, Polygon, Linea, Solana. Assets: USDC, USDT, ETH, POL, EURC, USDB, SOL.
+Supported chains: Ethereum, Arbitrum, Base, Optimism, Polygon. Assets: USDC, USDT
 
 **Powered by [Swype](https://swype.io).**
 
