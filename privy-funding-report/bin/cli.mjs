@@ -33,7 +33,7 @@ const CHAIN_ASSET_QUERIES = [
   //{ chain: 'solana',   assets: ['usdc'] },
 ];
 
-const DELAY_MS = 300;
+const DELAY_MS = 600;
 const PRIVY_BASE = 'https://api.privy.io/v1';
 
 function loadEnv() {
